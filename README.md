@@ -1,12 +1,12 @@
 
+
 #  Bike Sharing Demand Prediction
 ## Introduction
 Currently Rental bikes are introduced in many urban cities for the enhancement of mobility comfort. It is important to make the rental bike available and accessible to the public at the right time as it lessens the waiting time. Eventually, providing the city with a stable supply of rental bikes becomes a major concern. The crucial part is the prediction of bike count required at each hour for the stable supply of rental bikes.
 ## Problem Statement
 We are tasked with predicting the number of bikes rented each hour so as to make an approximate estimation of the number of bikes to be made available to the public given a particular hour of the day.
-## Problem Statement
-We are tasked with predicting the number of bikes rented each hour so as to make an approximate estimation of the number of bikes to be made ava Date : year-month-day
-
+##  Overview Of The Data
+We are given the following columns in our data:
 • Date : year-month-day
 
 • Rented Bike count - Count of bikes rented at each hour
